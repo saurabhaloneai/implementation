@@ -2,7 +2,7 @@
 
 ## Overview
 
-In 2024, I plan to go through four key books on Machine Learning and MLOps. The goal is to cover one chapter within 3-5 days at maximum for each book. Here is the list of books:
+In 2024, I plan to go through four kbooks on Machine Learning and MLOps. The goal is to cover one chapter within 3-5 days at maximum for each book. Here is the list of books:
 
 1. **An Introduction to Statistical Learning** - by Greath James and Team
 2. **Machine Learning with scikit-learn and PyTorch** - by Sebastian Raschka and Team
@@ -37,8 +37,8 @@ In 2024, I plan to go through four key books on Machine Learning and MLOps. The 
 
 ## Implementation Details
 
-For each chapter, the plan is to read and understand the concepts, and then implement the learned knowledge into code. This hands-on approach will enhance the practical understanding of the material.
+For each chapter, the plan is to read and understand the concepts, and then implement the learned knowledge into code. 
 
 Feel free to check the progress regularly, and any suggestions or improvements are welcome!
 
-Happy learning!
+
