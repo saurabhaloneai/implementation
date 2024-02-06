@@ -1,0 +1,1 @@
+# learn about the estimation ( the prediction that we make about the future) and the inference ( the understanding of the relationship between the variables)   
