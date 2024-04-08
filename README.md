@@ -5,7 +5,7 @@
 In 2024, I plan to go through four kbooks on Machine Learning and MLOps. The goal is to cover one chapter within 3-5 days at maximum for each book. Here is the list of books:
 
 1. **An Introduction to Statistical Learning** - by Greath James and Team
-2. **Machine Learning with scikit-learn and PyTorch** - by Sebastian Raschka and Team
+2. **Machine Learning with scikit-learn and PyTorch** - by Sebastian Raschka and Team (in-progress)
 3. **Machine Learning Engineering with Python** - by Andrew P. MacMahon
 4. **Practical Statistics for Data Scientists** - by Peter Bruce and Team
 
